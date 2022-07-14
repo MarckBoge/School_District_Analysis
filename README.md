@@ -68,3 +68,15 @@ The school board believes the student_complete.csv file shows evidence of grade 
     THS is a Charter school, therefore the cumulative performance result of the charter school is impacted
     
     <img width="715" alt="School Type" src="https://user-images.githubusercontent.com/90155651/178970349-4a3459c3-761b-416d-9ae4-eb657097f96a.png">
+    
+    
+    
+    
+## Summary
+
+
+    In conclusion, the 9th grade scores of Thomas High School don't definitively support the suspicion that math and reading scores were manipulated 
+    because this data analysis performed demonstrates otherwise. By removing said academic misconduct stats, the performance of many score 
+    indicators remained the same or increased, suggesting that the reading and math scores were probably honest values and not manipulated.
+
+
